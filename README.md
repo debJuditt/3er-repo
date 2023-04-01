@@ -1,2 +1,2 @@
 # 3er-repo
-Mi primer commit
+Mi primer  repositorio
